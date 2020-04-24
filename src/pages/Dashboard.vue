@@ -14,9 +14,11 @@
         <img src="~assets/btn_findus.png" style="width:60%;"/>
         </div>
       </div>
-      <q-btn round no-caps  class="q-pa-lg full-width">
+      <div class="q-ma-sm">
+      <q-btn round no-caps  class="full-width">
         <q-img src="~assets/btn_makeorder.png"/>
       </q-btn>
+      </div>
   </div>
 </template>
 <script>
