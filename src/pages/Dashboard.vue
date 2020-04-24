@@ -1,5 +1,5 @@
 <template>
-  <div class="window-height" style="background:#000000;">
+  <div class="window-height row" style="background:#000000;">
       <q-img
         src="~assets/dashboard_background.png" class="fit-width"
       />
@@ -14,7 +14,7 @@
         <img src="~assets/btn_findus.png" style="width:60%;"/>
         </div>
       </div>
-      <div class="q-ma-sm">
+      <div class="q-pa-md col-12">
       <q-btn round no-caps  class="full-width">
         <q-img src="~assets/btn_makeorder.png"/>
       </q-btn>
